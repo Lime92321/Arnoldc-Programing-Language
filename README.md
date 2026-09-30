@@ -10,12 +10,15 @@
 3. If either command is not recognized, add Java's `bin` directory to your system `PATH`.
 
 ## Installation for Arnold C
-  1. Download: Arnold C java package from https://lhartikk.github.io/ArnoldC/
+  1. Download the ArnoldC java package from https://lhartikk.github.io/ArnoldC/
+
   2. Verify the installation by compiling ArnoldC program:
+
     ```sh
     java -jar ArnoldC.jar Hello_World.arnoldc
     ```
   3. Run the compiled program:
+  
     ```sh
     java Hello_World
     ```
