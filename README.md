@@ -12,13 +12,12 @@
 ## Installation for Arnold C
   1. Download: Arnold C java package from https://lhartikk.github.io/ArnoldC/
   2. verify:
-    ```sh
-    #compile ArnoldC program
-
-    java -jar ArnoldC.jar Hello_World.arnoldc
-
-    #running program
-
+    ### compile ArnoldC program
+      ```
+      java -jar ArnoldC.jar Hello_World.arnoldc
+      ```
+    ### running program
+    ```
     java Hello_World
     ```
 ## Keywords
